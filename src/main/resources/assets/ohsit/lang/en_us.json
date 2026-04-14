@@ -1,0 +1,11 @@
+{
+  "key.ohsit.open_menu": "Sitting Menu",
+  "key.categories.ohsit": "OhSit",
+  "screen.ohsit.sitting_menu": "Sitting Menu",
+  "screen.ohsit.pose.normal": "Sit",
+  "screen.ohsit.pose.relaxed": "Relaxed",
+  "screen.ohsit.pose.curled": "Curl",
+  "screen.ohsit.pose.on_knees": "Knees",
+  "screen.ohsit.pose.legs_to_side": "Side",
+  "screen.ohsit.pose.crisscross": "Cross"
+}

@@ -1,0 +1,27 @@
+# Build output
+build/
+*.class
+META-INF/
+
+# Gradle
+.gradle/
+gradle/.store/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Claude
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Scripts
+*.ps1
+
+# Third-party tools
+FA+Player-*/

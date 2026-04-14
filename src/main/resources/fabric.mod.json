@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "ohsit",
+  "version": "${version}",
+  "name": "OhSit",
+  "description": "A sitting animation mod with multiple poses",
+  "authors": [
+    "GashiStudios"
+  ],
+  "contact": {
+    "sources": "https://github.com/gqrshy/OhSit"
+  },
+  "license": "All Rights Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.gqrshy.ohsit.OhSitMod"
+    ],
+    "client": [
+      "com.gqrshy.ohsit.client.OhSitClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": ">=1.21.1 <1.22",
+    "java": ">=21",
+    "playeranimator": "*"
+  }
+}
